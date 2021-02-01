@@ -15,7 +15,7 @@
 <body class="grey lighten-4">
 	<nav class="white z-depth-0">
     <div class="container">
-      <a href="index.php" class="brand-logo brand-text">Book List (factory pattern)</a>
+      <a href="index.php" class="brand-logo brand-text center">PHP Design Patterns - 001 Factory Pattern</a>
       <ul id="nav-mobile" class="right hide-on-small-and-down">
         <!-- <li><a href="add.php" class="btn brand z-depth-0">Add a Pizza</a></li> -->
       </ul>
